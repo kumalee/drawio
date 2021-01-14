@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T11:21:41.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.8" etag="yOCJvzVjzvgyXhgQBhSJ" type="github"><diagram id="yg36s_cF_iVkT3nSAT2h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-14T03:12:27.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PNqjKzxlySD6aAP3SFqd" version="14.1.8" type="github">
+  <diagram id="yg36s_cF_iVkT3nSAT2h" name="Page-1">
+    <mxGraphModel dx="910" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="460" width="890" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-2" value="Register a WeCaht Mini-program" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="100" y="22.5" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-4" value="provide a trial version to be review by WeChat Platform" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="170" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="310" y="22.5" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-6" value="publish the trial version" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="380" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="520" y="22.5" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-8" value="connect the mini-program to work wechat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="590" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="720" y="22.5" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dA6N8BfN7YtS5tCj5Paj-10" value="get the mini-program&#39;s secret in work wechat platform" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="dA6N8BfN7YtS5tCj5Paj-1">
+          <mxGeometry x="790" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
